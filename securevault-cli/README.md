@@ -1,8 +1,8 @@
-# SecureVault CLI 🔐
+# SecureVault CLI
 
 A secure, interactive command-line password manager built with TypeScript, featuring encryption and an intuitive user experience.
 
-## 🌟 Features
+## Features
 
 ### Security-First Design
 - **AES-256-CBC Encryption** with PBKDF2 key derivation
