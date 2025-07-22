@@ -4,6 +4,7 @@ A secure, interactive command-line password manager built with TypeScript, featu
 
 ## Features
 
+
 ### Security-First Design
 - **AES-256-CBC Encryption** with PBKDF2 key derivation
 - **100,000 PBKDF2 iterations** for protection against brute force attacks
